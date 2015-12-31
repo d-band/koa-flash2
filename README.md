@@ -1,6 +1,6 @@
 #koa-flash2
 
-Flash messages for your [koa](https://github.com/koajs/koa) based on [connect-flash](https://github.com/jaredhanson/connect-flash).
+Flash messages for [koa](https://github.com/koajs/koa) based on [connect-flash](https://github.com/jaredhanson/connect-flash).
 
 [![Build Status](https://travis-ci.org/d-band/koa-flash2.svg?branch=master)](https://travis-ci.org/d-band/koa-flash2)
 
