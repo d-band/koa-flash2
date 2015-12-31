@@ -1,0 +1,35 @@
+{
+  "name": "koa-flash2",
+  "version": "0.0.1",
+  "description": "Flash messages for your koa application based on connect-flash.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/d-band/koa-flash2"
+  },
+  "keywords": [
+    "koa",
+    "middleware",
+    "flash",
+    "messages",
+    "session"
+  ],
+  "author": "D.Band",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d-band/koa-flash2/issues"
+  },
+  "homepage": "https://github.com/d-band/koa-flash2",
+  "dependencies": {
+    "connect-flash": "~0.1.1"
+  },
+  "devDependencies": {
+    "koa": "~1.1.2",
+    "koa-session": "~3.3.1",
+    "mocha": "~2.3.4",
+    "supertest": "~1.1.0"
+  },
+  "scripts": {
+    "test": "make test"
+  }
+}
