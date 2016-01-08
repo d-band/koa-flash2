@@ -3,7 +3,7 @@
 Flash messages for [koa](https://github.com/koajs/koa) based on [connect-flash](https://github.com/jaredhanson/connect-flash).
 
 [![Build Status](https://travis-ci.org/d-band/koa-flash2.svg?branch=master)](https://travis-ci.org/d-band/koa-flash2)
-
+[![Coverage Status](https://coveralls.io/repos/d-band/koa-flash2/badge.svg?branch=master)](https://coveralls.io/github/d-band/koa-flash2)
 ## Installation
 
 ```js
