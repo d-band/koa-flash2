@@ -1,6 +1,6 @@
 {
   "name": "koa-flash2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Flash messages for your koa application based on connect-flash.",
   "main": "index.js",
   "repository": {
